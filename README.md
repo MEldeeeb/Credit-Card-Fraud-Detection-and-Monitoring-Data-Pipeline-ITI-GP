@@ -1,6 +1,6 @@
 # System Architecture
 
-![System Architecture](/Docs/full_arch.png)
+![System Architecture](/Docs/full arch.png)
 # 🐳 Dockerized Data Engineering Stack
 
 A fully integrated Docker-based environment for building modern data engineering pipelines with:
@@ -111,6 +111,7 @@ These map **host directories** to container paths for code, configs, and data sh
 ## Connect with me
 
 - [🔗 LinkedIn Account  →    WWW.linkedin.com/mohamed-eldeeb](https://www.linkedin.com/in/mohamed-eldeeb-9706261b6/)
+
 
 
 
